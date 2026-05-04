@@ -1,6 +1,14 @@
 ## Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=29F7629C&background=0BFCFF00&width=500&height=300&lines=Dans+une+fleur%2C+un+monde;Percevoir+la+v%C3%A9rit%C3%A9+ultime)](https://git.io/typing-svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RAYMOND-PROMAX/RAYMOND-PROMAX/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RAYMOND-PROMAX/RAYMOND-PROMAX/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RAYMOND-PROMAX/RAYMOND-PROMAX/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 <!--
 **RAYMOND-PROMAX/RAYMOND-PROMAX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
