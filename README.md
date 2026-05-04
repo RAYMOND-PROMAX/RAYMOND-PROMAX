@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=WELCOME+TO+MY+CHANNEL;Je +m'appelle+RAYMOND)
-
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+WORLD;I+AM+RAYMOND)
 
 <!--
 **RAYMOND-PROMAX/RAYMOND-PROMAX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
