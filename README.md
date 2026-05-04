@@ -6,8 +6,8 @@
   <img src="https://raw.githubusercontent.com/RAYMOND-PROMAX/RAYMOND-PROMAX/output/github-contribution-grid-snake.svg" />
 </p>
 
+test2
 
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=iceend)
 
 <!--
 **RAYMOND-PROMAX/RAYMOND-PROMAX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
