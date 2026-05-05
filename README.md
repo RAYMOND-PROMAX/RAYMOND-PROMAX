@@ -13,7 +13,7 @@
 <a href="mailto:xialihub@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-<a href="https://juejin.cn/user/你的稀土掘金ID">
+<a href="https://juejin.cn/user/2649202939146665">
   <img src="https://img.shields.io/badge/稀土掘金-1E80C5?style=flat-square&logo=juejin&logoColor=white" />
 </a>
 <a href="https://blog.csdn.net/
