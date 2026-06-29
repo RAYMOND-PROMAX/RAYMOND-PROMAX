@@ -1,4 +1,6 @@
 
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=God+said%2C+%E2%80%9CLet+there+be+light.%E2%80%9D;And+there+was+light.)](https://git.io/typing-svg)
 
 <!-- 🐍 Contribution Snake -->
@@ -6,7 +8,11 @@
   <img src="https://raw.githubusercontent.com/RAYMOND-PROMAX/RAYMOND-PROMAX/output/github-contribution-grid-snake.svg" />
 </p>
 
+## ⏳ 当前状态
 
+<p align="center">
+  🟢 在线 · 正在优化应用 内存/CPU 资源配额 · 可用工作时间: 09:00 - 22:00 (UTC+8)
+</p>
 
 ## 📫 联系方式
 
@@ -23,49 +29,104 @@
 
 ## 🛠️ 技术栈
 
-**语言**
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+
+**操作系统**
+<a href="https://www.centos.org/">
+  <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<a href="https://ubuntu.com/">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </a>
+<a href="https://www.kylinos.cn/">
+  <img src="https://img.shields.io/badge/银河麒麟-1890FF?style=flat-square&logo=Kylin&logoColor=white" />
+</a>
+<a href="https://www.kali.org/">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
+</a>
+
+**脚本与自动化**
 <a href="https://www.gnu.org/software/bash/">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
 </a>
-<a href="https://www.shellscript.sh/">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</a>
+<a href="https://www.ansible.com/">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+</a>
+<a href="https://www.terraform.io/">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
 </a>
 
-**AI**
-<a href="https://pytorch.org/">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+**运维工具与中间件**
+<a href="https://www.docker.com/">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </a>
-<a href="https://www.langchain.com/">
-  <img src="https://img.shields.io/badge/Agent-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<a href="https://kubernetes.io/">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 </a>
-<a href="https://www.skill.dev/">
-  <img src="https://img.shields.io/badge/Skill-0078D7?style=flat-square&logo=skill&logoColor=white" />
+<a href="https://prometheus.io/">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+</a>
+<a href="https://grafana.com/">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+</a>
+<a href="https://www.nginx.com/">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+</a>
+<a href="https://httpd.apache.org/">
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
 </a>
 
-**后端/数据库**
-<a href="https://nodejs.org/">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-</a>
+**数据库**
 <a href="https://www.mysql.com/">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </a>
 <a href="https://www.postgresql.org/">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 </a>
-
-**工具**
-<a href="https://www.docker.com/">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<a href="https://redis.io/">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </a>
+
+**监控与日志**
+<a href="https://www.zabbix.com/">
+  <img src="https://img.shields.io/badge/Zabbix-DC382D?style=flat-square&logo=zabbix&logoColor=white" />
+</a>
+<a href="https://www.splunk.com/">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+</a>
+<a href="https://www.elastic.co/kibana">
+  <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" />
+</a>
+
+**版本控制与协作**
 <a href="https://git-scm.com/">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </a>
-<a href="https://code.visualstudio.com/">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
+<a href="https://about.gitlab.com/">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+</a>
+
+**云平台**
+<a href="https://aws.amazon.com/">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+</a>
+<a href="https://azure.microsoft.com/">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+</a>
+<a href="https://www.huaweicloud.com/">
+  <img src="https://img.shields.io/badge/华为云-FF0000?style=flat-square&logo=Huawei&logoColor=white" />
+</a>
+<a href="https://www.aliyun.com/">
+  <img src="https://img.shields.io/badge/阿里云-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" />
+</a>
+<hr>
+<p align="center">
+  <b>保持系统稳定运行 · 自动化一切 · 监控一切</b>
+</p>
+<hr>
